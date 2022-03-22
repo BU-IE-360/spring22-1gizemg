@@ -1,4 +1,4 @@
-## Welcome to MY GitHub Pages
+### Welcome to MY GitHub Pages
 
 
 ### HOMEWORK 1
