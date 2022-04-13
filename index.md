@@ -3,6 +3,7 @@
 
 ### HOMEWORK 1
 [HW1](https://bu-ie-360.github.io/spring22-1gizemg/%C4%B1e%20360%20hw%201%202017402015.html)
+[**](https://bu-ie-360/spring22-1gizemg/IE360HW1-2017402015.html)
 [HW1*](https://github.com/BU-IE-360/spring22-1gizemg/blob/a661fc11c5099f98ff899880e00b89624542e74c/IE360HW1-2017402015.html)
 ### HOMEWORK 2
 ### HOMEWORK 3
