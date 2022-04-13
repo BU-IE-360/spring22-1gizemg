@@ -2,7 +2,7 @@
 
 
 ### HOMEWORK 1
-[HW1]("C:\\Users\\GİZEM\\Desktop\\ıe 360 hw 1 2017402015.html")
+[HW1](https://bu-ie-360.github.io/spring22-1gizemg/%C4%B1e%20360%20hw%201%202017402015.html)
 ### HOMEWORK 2
 ### HOMEWORK 3
 ### HOMEWORK 4
