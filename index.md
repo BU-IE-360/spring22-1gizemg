@@ -6,6 +6,8 @@
 [HW1](https://bu-ie-360.github.io/spring22-1gizemg/IE360HW1-2017402015.html)
 
 ### HOMEWORK 2
+
+[HW2](https://bu-ie-360.github.io/spring22-1gizemg//IE-360-HW-2.html)
 ### HOMEWORK 3
 ### HOMEWORK 4
 
