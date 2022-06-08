@@ -8,8 +8,9 @@
 ### HOMEWORK 2
 
 [HW2](https://bu-ie-360.github.io/spring22-1gizemg/IE-360-HW-2.html)
-### HOMEWORK 3
-### HOMEWORK 4
+### PROJE
+
+[PDF](https://bu-ie-360.github.io/spring22-1gizemg/360-project-group12.pdf), [RMD](https://bu-ie-360.github.io/spring22-1gizemg/360project.Rmd), [HTML](https://bu-ie-360.github.io/spring22-1gizemg/360project.html)
 
 [link](https://moodle.boun.edu.tr/login/)
 
